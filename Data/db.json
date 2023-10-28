@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "My First Post",
+      "datetime": "July 01, 2021 11:17:36 AM",
+      "body": "Learnt the Basics of HTML, CSS, JavaScript"
+    },
+    {
+      "id": 3,
+      "title": "My Thi",
+      "datetime": "October 26, 2023 3:35:31 PM",
+      "body": "Have to Study Exwdw"
+    }
+  ]
+}
